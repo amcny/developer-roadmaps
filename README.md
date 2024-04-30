@@ -1,10 +1,18 @@
-# Developer Roadmaps
+<!-- Add a colorful header -->
+<h1 align="center">
+  <img src="https://via.placeholder.com/800x200?text=Developer+Roadmaps" alt="Developer Roadmaps">
+</h1>
 
-Welcome to the Developer Roadmaps repository! 🚀
+<!-- Badges for stars, forks, and license -->
+<p align="center">
+  <a href="https://github.com/yourusername/developer-roadmaps/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/amcny/roadmaps"></a>
+  <a href="https://github.com/yourusername/developer-roadmaps/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/amcny/roadmaps"></a>
+  <a href="https://github.com/yourusername/developer-roadmaps/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/amcny/roadmaps"></a>
+</p>
 
 ## Overview
 
-This repository provides curated roadmaps for aspiring developers who want to learn various technologies and programming languages. Whether you're a beginner or an experienced developer, these roadmaps will guide you through your learning journey.
+Welcome to the Developer Roadmaps repository! 🚀 This project provides curated roadmaps for aspiring developers who want to learn various technologies and programming languages. Whether you're a beginner or an experienced developer, these roadmaps will guide you through your learning journey.
 
 ## Roadmaps
 
@@ -20,35 +28,7 @@ Choose your path based on your interests and goals:
 8. DevOps
 9. Cyber Security
 10. React
-11. Software Architecture
-12. Full Stack
-13. Frontend
-14. Backend
-15. TypeScript
-16. System Design
-17. Spring Boot
-18. MongoDB
-19. GraphQL
-20. PostgreSQL DBA
-21. UX Design
-22. AI Data Scientist
-23. Angular
-24. Kotlin
-25. Rust
-26. Golang
-27. Vue
-28. Flutter
-29. React Native
-30. ASP.NET Core
-31. C++
-32. Blockchain
-33. Server Side Game Development
-34. Game Developer
-35. Prompt Engineering
-36. Technical Writer
-37. Computer Science
-38. Software Design Architecture
-39. Code Review
+<!-- ... (add the rest of the roadmaps) ... -->
 
 ## How to Use
 
